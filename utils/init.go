@@ -1,5 +1,9 @@
 package utils
 
+import (
+	_ "github.com/circular-protocol/circular-go/circular_protocol_api/utils"
+)
+
 func init() {
-	// Codice di inizializzazione
+	// Forward initialization if any
 }

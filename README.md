@@ -26,19 +26,6 @@ Once installed, you can import the necessary packages from the Circular Protocol
 ```go
 import (
     "github.com/circular-protocol/circular-go/circular_protocol_api"
-    "github.com/circular-protocol/circular-go/utils"
-)
-```
-
-## Docs
-
-Find the docs on our official [GitBook](https://circular-protocol.gitbook.io/circular-sdk/api-docs/go)
-
-## About
-
-The Circular Protocol provides decentralized, scalable solutions for dApps, financial transactions, and smart contracts. The API suite makes it easier for developers to work with the Circular Protocol blockchain by offering ready-to-use methods for querying and executing blockchain operations.
-
-For more information, check out the official documentation or reach out to the Circular Protocol community.
 
 ## Mantainers
 - Danny De Novi: dannydenovi29@gmail.com
