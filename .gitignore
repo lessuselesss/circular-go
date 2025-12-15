@@ -6,3 +6,5 @@ vendor/
 .env
 .DS_Store
 .vscode/*
+GEMINI.md
+CLAUDE.md
